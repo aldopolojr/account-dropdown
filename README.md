@@ -1,12 +1,12 @@
-# Account dropdown
-This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/account-dropdown/)
+# Account Dropdown
+
+## links
+[demo link](https://aldopolojr.github.io/account-dropdown/)
+
+[source link](https://youtu.be/04u09KBBjfM)
+
+## Category
+tutorials
 
 ## Notes
 - object-fit: cover
-
-## Source
-[https://youtu.be/04u09KBBjfM](https://youtu.be/04u09KBBjfM)
-
-
-## Tags
-#HTML #CSS #JavaScript
